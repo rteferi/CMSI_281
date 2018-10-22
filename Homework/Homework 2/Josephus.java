@@ -1,5 +1,6 @@
 //Authors: Joshua Patterson & Rediet Teferi & Adam Reinart
 //Date: October 17, 2018
+//Purpose: The purpose of this file is to implement a circular list into the Josephus Game
 public class Josephus {
     private Node current;
     private int size;
