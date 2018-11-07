@@ -20,7 +20,7 @@ public class Simon {
   private Simon.Iterator current;
   private String[] simon = {red, blue, green, yellow};
 
-  public Simon(){
+  public Simon(){ // constructor
     head = null;
     size = 0;
   }
