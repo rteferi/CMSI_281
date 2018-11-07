@@ -1,5 +1,8 @@
-
-// This is a class that Implements the Simon Says Game through the I/O
+// File Name: Simon.java                                                 
+// Project: Homework 3
+// Authors: Joshua Patterson & Rediet Teferi & Adam Reinart
+// Date: November 5, 2018
+// Purpose:This is a class that Implements the Simon Says Game through the I/O
 
 
 import java.util.Scanner;
